@@ -1,6 +1,6 @@
-package ua.artcode.library.db;
+package ua.di1.library.db;
 
-import ua.artcode.library.model.Reader;
+import ua.di1.library.model.Reader;
 
 import java.util.List;
 

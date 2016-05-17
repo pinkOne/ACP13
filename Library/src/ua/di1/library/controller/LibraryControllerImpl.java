@@ -1,11 +1,11 @@
-package ua.artcode.library.controller;
+package ua.di1.library.controller;
 
-import ua.artcode.library.db.BookDao;
-import ua.artcode.library.db.ReaderDao;
-import ua.artcode.library.exception.LibraryException;
-import ua.artcode.library.exception.NoUserFoundException;
-import ua.artcode.library.model.Book;
-import ua.artcode.library.model.Reader;
+import ua.di1.library.db.BookDao;
+import ua.di1.library.db.ReaderDao;
+import ua.di1.library.exception.LibraryException;
+import ua.di1.library.exception.NoUserFoundException;
+import ua.di1.library.model.Book;
+import ua.di1.library.model.Reader;
 
 import java.util.Date;
 import java.util.List;

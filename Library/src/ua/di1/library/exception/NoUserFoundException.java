@@ -1,4 +1,4 @@
-package ua.artcode.library.exception;
+package ua.di1.library.exception;
 
 /**
  * Created by serhii on 14.05.16.

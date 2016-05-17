@@ -1,4 +1,4 @@
-package ua.artcode.library.model;
+package ua.di1.library.model;
 
 /**
  * Created by serhii on 14.05.16.

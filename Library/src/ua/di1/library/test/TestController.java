@@ -1,7 +1,7 @@
-package ua.artcode.library.test;
+package ua.di1.library.test;
 
-import ua.artcode.library.controller.LibraryController;
-import ua.artcode.library.model.Book;
+import ua.di1.library.controller.LibraryController;
+import ua.di1.library.model.Book;
 
 /**
  * Created by serhii on 14.05.16.
